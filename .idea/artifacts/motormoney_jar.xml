@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="motormoney:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft Server/1.20.1 서버 만들기/plugins</output-path>
+    <root id="archive" name="motormoney.jar">
+      <element id="module-output" name="motormoney" />
+    </root>
+  </artifact>
+</component>

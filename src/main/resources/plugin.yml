@@ -1,0 +1,9 @@
+name: MotorMoney
+version: '${project.version}'
+main: me.motor.motormoney.MotorMoney
+api-version: '1.20'
+author: motor
+softdepend: [ Vault ]
+commands:
+  돈:
+    description: 보유 금액
